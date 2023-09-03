@@ -65,9 +65,3 @@ for person in team.keys():
         print(*unique_things, sep=', ', end=', but ')
         print('other friends have', end=' ')
         print(*two_person_kit, sep=', ', end='.\n')
-
-
-
-
-
-
