@@ -23,7 +23,6 @@ things = {'water': 4,
           'camera': 3,
           'radio': 4}
 
-
 bug_versions = []
 
 repeat = 0
